@@ -1,7 +1,7 @@
 body {
     font-family: "Roboto Mono", monospace;
     min-height: 600px;
-    background-image: url("https://www.alura.com.br/assets/img/imersoes/dev-2021/dia-03-mentalista.png");
+    background-image: url("https://img.ibxk.com.br///2021/05/06/06105446360096.jpg?w=1200&h=675&mode=crop&scale=both");
     background-color: #000000;
     background-size: cover;
     background-position: center bottom;
@@ -51,4 +51,19 @@ button {
     color: #ffffff;
     text-align: center;
     margin-top: 16px;
+}
+
+.tentativas {
+    color: #ffffff;
+    text-align: center;
+    margin-top: 16px;
+}
+
+#corpo {
+    font-family: "Roboto Mono", monospace;
+    min-height: 600px;
+    background-image: "url('https://www.researchgate.net/profile/Bruno-Baere-Pedrazzi-Lomba-De-Araujo/publication/261550704/figure/fig7/AS:649316393811971@1531820500732/Figura-53-Tela-de-fim-de-jogo.png')";
+    background-color: #000000;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
 }
